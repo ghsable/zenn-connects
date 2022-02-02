@@ -1,5 +1,5 @@
 # zenn-connects
-suna's [zenn-connects](https://zenn.dev/necosuna).
+suna's [zenn-connects](https://zenn.dev/dativus).
 
 ## Document
 * [zenn-docs](https://github.com/zenn-dev/zenn-docs)
